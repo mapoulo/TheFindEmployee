@@ -20,18 +20,15 @@ public class DepartmentService {
 		repo.save(department);
 	}
 	
-	
-	
-	public Department findBydepartmentName(String name) {
-		return repo.findBydepartmentName(name);
+
+	public Department findDepartmentById(int id) {
+		return repo.findDepartmentById(id);
 	}
 	
 	public List getAllDepartment() {
 		List departments = new ArrayList<>();
-		
 		repo.findAll().forEach(departments::add);
-		return departments;
-		
+		return departments;	
 	}
 	
 	

@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.EmployeeService.demo.Models.Employee;
 import com.EmployeeService.demo.Services.EmployeeService;
+import com.EmployeeService.demo.ValueObject.RetTemplateVO;
 
 @RestController
 @RequestMapping("/employee")
@@ -33,9 +34,11 @@ public class EmployeeController {
     	return service.findAllEmployees();
     }
     
-    @GetMapping("/{name}")
-    public Employee findEmployeeByName(@PathVariable String name) {
-    	return service.findEmployeeByName(name);
+ 
+    
+    @GetMapping("/{id}")
+    public RetTemplateVO getUserWithDepartment(@PathVariable int id) {
+    	return service.getUserWithDepartment(id);
     }
     
     

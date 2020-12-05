@@ -8,4 +8,6 @@ public interface DepartmentRepo extends CrudRepository<Department, Integer> {
 
 	Department findBydepartmentName(String name);
 
+	Department findDepartmentById(int id);
+
 }

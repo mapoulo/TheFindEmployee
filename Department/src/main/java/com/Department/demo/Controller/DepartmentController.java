@@ -34,9 +34,9 @@ public class DepartmentController {
    }
    
    
-   @GetMapping("/{name}")
-   public Department findBydepartmentName(@PathVariable String name) {
-	   return service.findBydepartmentName(name);
+   @GetMapping("/{id}")
+   public Department findBydepartmentName(@PathVariable int id) {
+	   return service.findDepartmentById(id);
    }
    
    @GetMapping("/all")
