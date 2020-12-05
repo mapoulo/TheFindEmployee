@@ -25,6 +25,12 @@ public class DepartmentController {
 	}
 	
 	
+	@GetMapping("/s")
+	public String name() {
+		return "sdfsfasdfasdfasd";
+	}
+	
+	
 	@GetMapping("/{name}")
 	public Department findDepartmentByName(@PathVariable String name) {
 		
