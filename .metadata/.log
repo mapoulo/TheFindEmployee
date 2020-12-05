@@ -2018,3 +2018,90 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:07:54.393
 !MESSAGE executing callback sts4.classpath.DLOBjflQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:09:51.349
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.DLOBjflQ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:09:51.365
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.DLOBjflQ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:09:51.380
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:09:51.394
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.DLOBjflQ => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:10:19.847
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.hSXSAnua
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:10:19.866
+!MESSAGE subscribing to classpath changes: sts4.classpath.hSXSAnua
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:10:19.878
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:10:19.889
+!MESSAGE subsribers = [sts4.classpath.hSXSAnua]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:10:19.900
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:10:19.911
+!MESSAGE project Department ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:10:19.922
+!MESSAGE project EmployeeService ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:10:19.932
+!MESSAGE Preparing classpath changed notification Department
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:10:19.942
+!MESSAGE project MyEurekaServer ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:10:19.952
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:10:19.962
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:10:19.972
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:10:19.982
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.hSXSAnua => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:10:19.994
+!MESSAGE executing callback sts4.classpath.hSXSAnua Department false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:10:20.106
+!MESSAGE executing callback sts4.classpath.hSXSAnua SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:10:20.120
+!MESSAGE Preparing classpath changed notification MyEurekaServer
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:10:20.158
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:10:20.228
+!MESSAGE classpath=136 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:10:20.241
+!MESSAGE executing callback sts4.classpath.hSXSAnua MyEurekaServer false 136
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:10:20.465
+!MESSAGE executing callback sts4.classpath.hSXSAnua SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:10:20.480
+!MESSAGE Preparing classpath changed notification EmployeeService
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:10:20.495
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:10:20.519
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:10:20.535
+!MESSAGE executing callback sts4.classpath.hSXSAnua EmployeeService false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:10:21.900
+!MESSAGE executing callback sts4.classpath.hSXSAnua SUCCESS [done]

@@ -24,10 +24,7 @@ public class DepartmentController {
 	@Autowired
 	private DepartmentService service;
 	
-     @GetMapping("/s")	
-	public String name() {
-		return "ddddddddd";
-	}
+   
      
      
    @PostMapping("/")
