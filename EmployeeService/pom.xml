@@ -8,10 +8,10 @@
 		<version>2.4.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.Department</groupId>
-	<artifactId>Department</artifactId>
+	<groupId>com.EmployeeService</groupId>
+	<artifactId>EmployeeService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Department</name>
+	<name>EmployeeService</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
@@ -27,7 +27,6 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
-		
 
 		<dependency>
 			<groupId>mysql</groupId>
@@ -46,8 +45,6 @@
 		</dependency>
 	</dependencies>
 
-	
-
 	<build>
 		<pluginManagement>
 			<plugins>
@@ -59,13 +56,5 @@
 			</plugins>
 		</pluginManagement>
 	</build>
-
-	<repositories>
-		<repository>
-			<id>spring-milestones</id>
-			<name>Spring Milestones</name>
-			<url>https://repo.spring.io/milestone</url>
-		</repository>
-	</repositories>
 
 </project>

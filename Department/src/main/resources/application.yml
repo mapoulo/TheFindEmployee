@@ -1,12 +1,7 @@
-eureka:
-   client:
-      registerWithEureka: true
-      fetchRegistry: true
+
 server:
    port: 9001
 spring:
-
-
   application:
     name: Department-Service
   datasource:
