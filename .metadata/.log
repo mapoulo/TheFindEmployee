@@ -1229,3 +1229,72 @@ java.lang.InterruptedException
 	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
 	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
 	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 16:07:19.973
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.SATMEQgh
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 16:07:19.984
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.SATMEQgh
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 16:07:19.996
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 16:07:20.010
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.SATMEQgh => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 16:08:34.045
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.DLOBjflQ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 16:08:34.056
+!MESSAGE subscribing to classpath changes: sts4.classpath.DLOBjflQ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 16:08:34.066
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 16:08:34.076
+!MESSAGE subsribers = [sts4.classpath.DLOBjflQ]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 16:08:34.089
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 16:08:34.100
+!MESSAGE project Department ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 16:08:34.110
+!MESSAGE project MyEurekaServer ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 16:08:34.120
+!MESSAGE Preparing classpath changed notification Department
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 16:08:34.130
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 16:08:34.140
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 16:08:34.150
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.DLOBjflQ => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 16:08:34.160
+!MESSAGE classpath=140 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 16:08:34.171
+!MESSAGE executing callback sts4.classpath.DLOBjflQ Department false 140
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 16:08:34.423
+!MESSAGE executing callback sts4.classpath.DLOBjflQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 16:08:34.435
+!MESSAGE Preparing classpath changed notification MyEurekaServer
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 16:08:34.446
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 16:08:34.470
+!MESSAGE classpath=136 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 16:08:34.482
+!MESSAGE executing callback sts4.classpath.DLOBjflQ MyEurekaServer false 136
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 16:08:34.747
+!MESSAGE executing callback sts4.classpath.DLOBjflQ SUCCESS [done]
