@@ -2105,3 +2105,925 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:10:21.900
 !MESSAGE executing callback sts4.classpath.hSXSAnua SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:12:17.135
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.hSXSAnua
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:12:17.144
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.hSXSAnua
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:12:17.153
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:12:17.160
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.hSXSAnua => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:12:59.885
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.TwfpWjTT
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:12:59.894
+!MESSAGE subscribing to classpath changes: sts4.classpath.TwfpWjTT
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:12:59.904
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:12:59.915
+!MESSAGE subsribers = [sts4.classpath.TwfpWjTT]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:12:59.925
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:02.093
+!MESSAGE project EmployeeService ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:02.101
+!MESSAGE project Department ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:02.109
+!MESSAGE Preparing classpath changed notification EmployeeService
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:02.117
+!MESSAGE project MyEurekaServer ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:02.125
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:02.132
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:02.140
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:02.147
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.TwfpWjTT => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:02.155
+!MESSAGE executing callback sts4.classpath.TwfpWjTT EmployeeService false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:02.286
+!MESSAGE executing callback sts4.classpath.TwfpWjTT SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:02.295
+!MESSAGE Preparing classpath changed notification MyEurekaServer
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:02.306
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:02.326
+!MESSAGE classpath=136 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:02.335
+!MESSAGE executing callback sts4.classpath.TwfpWjTT MyEurekaServer false 136
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:02.533
+!MESSAGE executing callback sts4.classpath.TwfpWjTT SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:02.542
+!MESSAGE Preparing classpath changed notification Department
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:02.552
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:02.569
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:02.582
+!MESSAGE executing callback sts4.classpath.TwfpWjTT Department false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:02.935
+!MESSAGE executing callback sts4.classpath.TwfpWjTT SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:46.656
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.TwfpWjTT
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:46.666
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.TwfpWjTT
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:46.675
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:46.687
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.TwfpWjTT => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:51.262
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.TgpmKrre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:51.272
+!MESSAGE subscribing to classpath changes: sts4.classpath.TgpmKrre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:51.282
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:51.293
+!MESSAGE subsribers = [sts4.classpath.TgpmKrre]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:51.303
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:51.544
+!MESSAGE project EmployeeService ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:51.555
+!MESSAGE project Department ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:51.566
+!MESSAGE Preparing classpath changed notification EmployeeService
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:51.575
+!MESSAGE project MyEurekaServer ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:51.586
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:51.596
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:51.606
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:51.616
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.TgpmKrre => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:51.626
+!MESSAGE executing callback sts4.classpath.TgpmKrre EmployeeService false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:51.841
+!MESSAGE executing callback sts4.classpath.TgpmKrre SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:51.857
+!MESSAGE Preparing classpath changed notification MyEurekaServer
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:51.869
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:51.892
+!MESSAGE classpath=136 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:51.904
+!MESSAGE executing callback sts4.classpath.TgpmKrre MyEurekaServer false 136
+
+!ENTRY org.eclipse.lsp4e 4 0 2020-12-05 18:13:52.187
+!MESSAGE 
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2093)
+	at org.eclipse.lsp4e.operations.hover.LSBasedHover.getHoverInfo(LSBasedHover.java:108)
+	at org.springframework.tooling.boot.ls.jdt.SpringBootJavaHoverProvider.getHoverInfo2(SpringBootJavaHoverProvider.java:43)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:167)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:53.569
+!MESSAGE executing callback sts4.classpath.TgpmKrre SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:53.584
+!MESSAGE Preparing classpath changed notification Department
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:53.596
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:53.621
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:53.635
+!MESSAGE executing callback sts4.classpath.TgpmKrre Department false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:13:53.800
+!MESSAGE executing callback sts4.classpath.TgpmKrre SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:15:13.323
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.TgpmKrre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:15:13.333
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.TgpmKrre
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:15:13.341
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:15:13.350
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.TgpmKrre => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:16:21.299
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.ldkyAcJc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:16:21.310
+!MESSAGE subscribing to classpath changes: sts4.classpath.ldkyAcJc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:16:21.321
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:16:21.331
+!MESSAGE subsribers = [sts4.classpath.ldkyAcJc]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:16:21.341
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:16:21.351
+!MESSAGE project EmployeeService ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:16:21.361
+!MESSAGE project Department ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:16:21.371
+!MESSAGE Preparing classpath changed notification EmployeeService
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:16:21.381
+!MESSAGE project MyEurekaServer ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:16:21.391
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:16:21.400
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:16:21.410
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.ldkyAcJc => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:16:21.420
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:16:21.430
+!MESSAGE executing callback sts4.classpath.ldkyAcJc EmployeeService false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:16:21.608
+!MESSAGE executing callback sts4.classpath.ldkyAcJc SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:16:21.621
+!MESSAGE Preparing classpath changed notification MyEurekaServer
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:16:21.632
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:16:21.653
+!MESSAGE classpath=136 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:16:21.663
+!MESSAGE executing callback sts4.classpath.ldkyAcJc MyEurekaServer false 136
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:16:21.903
+!MESSAGE executing callback sts4.classpath.ldkyAcJc SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:16:21.916
+!MESSAGE Preparing classpath changed notification Department
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:16:21.933
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:16:21.956
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:16:21.973
+!MESSAGE executing callback sts4.classpath.ldkyAcJc Department false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:16:22.248
+!MESSAGE executing callback sts4.classpath.ldkyAcJc SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 4 0 2020-12-05 18:16:48.609
+!MESSAGE 
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2093)
+	at org.eclipse.lsp4e.operations.hover.LSBasedHover.getHoverInfo(LSBasedHover.java:108)
+	at org.springframework.tooling.boot.ls.jdt.SpringBootJavaHoverProvider.getHoverInfo2(SpringBootJavaHoverProvider.java:43)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:167)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:16:56.428
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.ldkyAcJc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:16:56.437
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.ldkyAcJc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:16:56.445
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:16:56.453
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.ldkyAcJc => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:17:38.829
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.QjGzVJDZ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:17:38.837
+!MESSAGE subscribing to classpath changes: sts4.classpath.QjGzVJDZ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:17:38.846
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:17:38.855
+!MESSAGE subsribers = [sts4.classpath.QjGzVJDZ]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:17:38.863
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:17:38.871
+!MESSAGE project EmployeeService ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:17:38.879
+!MESSAGE project Department ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:17:38.887
+!MESSAGE Preparing classpath changed notification EmployeeService
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:17:38.898
+!MESSAGE project MyEurekaServer ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:17:38.907
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:17:38.915
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:17:38.924
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:17:38.932
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.QjGzVJDZ => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:17:38.940
+!MESSAGE executing callback sts4.classpath.QjGzVJDZ EmployeeService false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:17:39.073
+!MESSAGE executing callback sts4.classpath.QjGzVJDZ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:17:39.083
+!MESSAGE Preparing classpath changed notification MyEurekaServer
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:17:39.091
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:17:39.112
+!MESSAGE classpath=136 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:17:39.126
+!MESSAGE executing callback sts4.classpath.QjGzVJDZ MyEurekaServer false 136
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:17:39.380
+!MESSAGE executing callback sts4.classpath.QjGzVJDZ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:17:39.391
+!MESSAGE Preparing classpath changed notification Department
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:17:39.402
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:17:39.423
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:17:39.436
+!MESSAGE executing callback sts4.classpath.QjGzVJDZ Department false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:17:39.711
+!MESSAGE executing callback sts4.classpath.QjGzVJDZ SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 4 0 2020-12-05 18:21:56.133
+!MESSAGE 
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2093)
+	at org.eclipse.lsp4e.operations.hover.LSBasedHover.getHoverInfo(LSBasedHover.java:108)
+	at org.springframework.tooling.boot.ls.jdt.SpringBootJavaHoverProvider.getHoverInfo2(SpringBootJavaHoverProvider.java:43)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:167)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.eclipse.lsp4e 4 0 2020-12-05 18:24:38.305
+!MESSAGE 
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2093)
+	at org.eclipse.lsp4e.operations.hover.LSBasedHover.getHoverInfo(LSBasedHover.java:108)
+	at org.springframework.tooling.boot.ls.jdt.SpringBootJavaHoverProvider.getHoverInfo2(SpringBootJavaHoverProvider.java:43)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:167)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:37:52.736
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.QjGzVJDZ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:37:52.747
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.QjGzVJDZ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:37:52.756
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 18:37:52.765
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.QjGzVJDZ => OK
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-05 18:47:36.654
+!MESSAGE Failed to write tracking file C:\Users\oupam\.m2\repository\com\github\vlsi\compactmap\parent\2.0\parent-2.0.pom.lastUpdated
+!STACK 0
+java.io.FileNotFoundException: C:\Users\oupam\.m2\repository\com\github\vlsi\compactmap\parent\2.0\parent-2.0.pom.lastUpdated (Access is denied)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:347)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:261)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:216)
+	at org.eclipse.aether.internal.impl.TrackingFileManager.update(TrackingFileManager.java:105)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.write(DefaultUpdateCheckManager.java:615)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.touchArtifact(DefaultUpdateCheckManager.java:551)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.evaluateDownloads(DefaultArtifactResolver.java:623)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:513)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:399)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:224)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:201)
+	at org.apache.maven.repository.internal.DefaultModelResolver.resolveModel(DefaultModelResolver.java:174)
+	at org.apache.maven.repository.internal.DefaultModelResolver.resolveModel(DefaultModelResolver.java:224)
+	at org.apache.maven.model.building.DefaultModelBuilder.readParentExternally(DefaultModelBuilder.java:1052)
+	at org.apache.maven.model.building.DefaultModelBuilder.readParent(DefaultModelBuilder.java:830)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:332)
+	at org.apache.maven.repository.internal.DefaultArtifactDescriptorReader.loadPom(DefaultArtifactDescriptorReader.java:314)
+	at org.apache.maven.repository.internal.DefaultArtifactDescriptorReader.readArtifactDescriptor(DefaultArtifactDescriptorReader.java:192)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.resolveCachedArtifactDescriptor(DefaultDependencyCollector.java:539)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.getArtifactDescriptorResult(DefaultDependencyCollector.java:522)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:411)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:365)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(DefaultDependencyCollector.java:353)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.doRecurse(DefaultDependencyCollector.java:507)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:460)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:365)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(DefaultDependencyCollector.java:353)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:256)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.collectDependencies(DefaultRepositorySystem.java:282)
+	at org.apache.maven.project.DefaultProjectDependenciesResolver.resolve(DefaultProjectDependenciesResolver.java:169)
+	at org.apache.maven.project.DefaultProjectBuilder.resolveDependencies(DefaultProjectBuilder.java:212)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:185)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:116)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProject(MavenImpl.java:628)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$3(ProjectRegistryManager.java:808)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:958)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:805)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:788)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$2.call(ProjectRegistryManager.java:1001)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$2.call(ProjectRegistryManager.java:1)
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:5065)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:5060)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:999)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:242)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:261)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:740)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1074)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-12-05 18:52:05.440
+!MESSAGE Could not read pom.xml
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:559)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:568)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:537)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:493)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:349)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:296)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:155)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:90)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:87)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:201)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'dependencies' (position: START_TAG seen ...</dependency>\n\t\t\n\t\t<dependencies>... @32:17) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:114)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:82)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:557)
+	... 24 more
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'dependencies' (position: START_TAG seen ...</dependency>\n\t\t\n\t\t<dependencies>... @32:17) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:178)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2239)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3852)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:109)
+	... 26 more
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-12-05 18:52:05.440
+!MESSAGE Could not read pom.xml
+!STACK 0
+org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'dependencies' (position: START_TAG seen ...</dependency>\n\t\t\n\t\t<dependencies>... @32:17) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:114)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:82)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:557)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:568)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:537)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:493)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:349)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:296)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:155)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:90)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:87)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:201)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'dependencies' (position: START_TAG seen ...</dependency>\n\t\t\n\t\t<dependencies>... @32:17) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:178)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2239)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3852)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:109)
+	... 26 more
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-12-05 18:52:07.074
+!MESSAGE Could not read pom.xml
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:559)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:568)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:537)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:493)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:349)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:296)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:155)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:90)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:87)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:201)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'dependencies' (position: START_TAG seen ...</dependency>\n\t\t\n\t\t<dependencies>... @32:17) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:114)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:82)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:557)
+	... 24 more
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'dependencies' (position: START_TAG seen ...</dependency>\n\t\t\n\t\t<dependencies>... @32:17) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:178)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2239)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3852)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:109)
+	... 26 more
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-12-05 18:52:07.075
+!MESSAGE Could not read pom.xml
+!STACK 0
+org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'dependencies' (position: START_TAG seen ...</dependency>\n\t\t\n\t\t<dependencies>... @32:17) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:114)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:82)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:557)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:568)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:537)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:493)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:349)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:296)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:155)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:90)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:87)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:201)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'dependencies' (position: START_TAG seen ...</dependency>\n\t\t\n\t\t<dependencies>... @32:17) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:178)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2239)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3852)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:109)
+	... 26 more
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:33:43.615
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.vWWyhaQu
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:33:43.627
+!MESSAGE subscribing to classpath changes: sts4.classpath.vWWyhaQu
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:33:43.638
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:33:43.649
+!MESSAGE subsribers = [sts4.classpath.vWWyhaQu]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:33:43.659
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:33:43.670
+!MESSAGE project EmployeeService ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:33:43.681
+!MESSAGE project MyEurekaServer ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:33:43.692
+!MESSAGE Preparing classpath changed notification EmployeeService
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:33:43.702
+!MESSAGE project Department ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:33:43.713
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:33:43.723
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:33:43.733
+!MESSAGE classpath=140 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:33:43.744
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.vWWyhaQu => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:33:43.754
+!MESSAGE executing callback sts4.classpath.vWWyhaQu EmployeeService false 140
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:33:44.017
+!MESSAGE executing callback sts4.classpath.vWWyhaQu SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:33:44.029
+!MESSAGE Preparing classpath changed notification Department
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:33:44.039
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:33:44.057
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:33:44.068
+!MESSAGE executing callback sts4.classpath.vWWyhaQu Department false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:33:44.336
+!MESSAGE executing callback sts4.classpath.vWWyhaQu SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:33:44.351
+!MESSAGE Preparing classpath changed notification MyEurekaServer
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:33:44.368
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:33:44.398
+!MESSAGE classpath=136 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:33:44.410
+!MESSAGE executing callback sts4.classpath.vWWyhaQu MyEurekaServer false 136
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:33:44.866
+!MESSAGE executing callback sts4.classpath.vWWyhaQu SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:34:05.218
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.vWWyhaQu
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:34:05.227
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.vWWyhaQu
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:34:05.236
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:34:05.244
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.vWWyhaQu => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:34:18.882
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.aesfusWX
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:34:18.893
+!MESSAGE subscribing to classpath changes: sts4.classpath.aesfusWX
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:34:18.903
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:34:18.914
+!MESSAGE subsribers = [sts4.classpath.aesfusWX]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:34:18.924
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:34:18.935
+!MESSAGE project EmployeeService ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:34:18.945
+!MESSAGE project Department ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:34:18.956
+!MESSAGE Preparing classpath changed notification EmployeeService
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:34:18.967
+!MESSAGE project MyEurekaServer ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:34:18.978
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:34:18.989
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:34:19.001
+!MESSAGE classpath=140 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:34:19.015
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.aesfusWX => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:34:19.027
+!MESSAGE executing callback sts4.classpath.aesfusWX EmployeeService false 140
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:34:19.193
+!MESSAGE executing callback sts4.classpath.aesfusWX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:34:19.208
+!MESSAGE Preparing classpath changed notification MyEurekaServer
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:34:19.223
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:34:19.243
+!MESSAGE classpath=136 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:34:19.253
+!MESSAGE executing callback sts4.classpath.aesfusWX MyEurekaServer false 136
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:34:19.442
+!MESSAGE executing callback sts4.classpath.aesfusWX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:34:19.458
+!MESSAGE Preparing classpath changed notification Department
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:34:19.473
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:34:19.497
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:34:19.510
+!MESSAGE executing callback sts4.classpath.aesfusWX Department false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:34:20.500
+!MESSAGE executing callback sts4.classpath.aesfusWX SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 4 0 2020-12-05 20:36:49.072
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1957)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.operations.declaration.OpenDeclarationHyperlinkDetector.detectHyperlinks(OpenDeclarationHyperlinkDetector.java:79)
+	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseMove(HyperlinkManager.java:457)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:216)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4131)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1055)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3944)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3547)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1173)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1062)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:566)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:155)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:661)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:597)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1476)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:38:55.051
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.aesfusWX
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:38:55.064
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.aesfusWX
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:38:55.077
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:38:55.091
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.aesfusWX => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:41:48.368
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.GEjmYTpP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:41:48.380
+!MESSAGE subscribing to classpath changes: sts4.classpath.GEjmYTpP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:41:48.391
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:41:48.400
+!MESSAGE subsribers = [sts4.classpath.GEjmYTpP]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:41:48.410
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:41:48.420
+!MESSAGE project Department ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:41:48.430
+!MESSAGE Preparing classpath changed notification Department
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:41:48.439
+!MESSAGE project EmployeeService ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:41:48.448
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:41:48.457
+!MESSAGE project MyEurekaServer ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:41:48.466
+!MESSAGE classpath=140 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:41:48.475
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:41:48.484
+!MESSAGE executing callback sts4.classpath.GEjmYTpP Department false 140
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:41:48.493
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.GEjmYTpP => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:41:48.742
+!MESSAGE executing callback sts4.classpath.GEjmYTpP SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:41:48.754
+!MESSAGE Preparing classpath changed notification MyEurekaServer
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:41:48.764
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:41:48.786
+!MESSAGE classpath=136 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:41:48.797
+!MESSAGE executing callback sts4.classpath.GEjmYTpP MyEurekaServer false 136
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:41:49.089
+!MESSAGE executing callback sts4.classpath.GEjmYTpP SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:41:49.105
+!MESSAGE Preparing classpath changed notification EmployeeService
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:41:49.119
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:41:49.148
+!MESSAGE classpath=140 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:41:49.162
+!MESSAGE executing callback sts4.classpath.GEjmYTpP EmployeeService false 140
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-05 20:41:49.518
+!MESSAGE executing callback sts4.classpath.GEjmYTpP SUCCESS [done]

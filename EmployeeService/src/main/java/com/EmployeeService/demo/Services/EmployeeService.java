@@ -1,0 +1,38 @@
+package com.EmployeeService.demo.Services;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.EmployeeService.demo.Models.Employee;
+import com.EmployeeService.demo.Repositories.EmployeeRepository;
+
+@Service
+public class EmployeeService {
+	
+	   
+	@Autowired
+	private EmployeeRepository repo;
+	
+	
+	public void saveEmployee(Employee employee) {
+		repo.save(employee);
+	}
+	
+	
+	
+	public List findAllEmployees() {
+		List employee = new ArrayList<>();
+		repo.findAll().forEach(employee::add);
+		return employee;
+	}
+	
+	
+	public Employee findEmployeeByName(String name) {
+		return repo.findByemployeeName(name);
+	}
+	
+
+}
