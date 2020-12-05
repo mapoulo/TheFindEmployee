@@ -8,4 +8,6 @@ import com.Department.demo.Models.Department;
 @Repository
 public interface DepartmentRepo extends JpaRepository<Department, Integer>{
 
+	Department findDepartmentByName(String name);
+
 }
