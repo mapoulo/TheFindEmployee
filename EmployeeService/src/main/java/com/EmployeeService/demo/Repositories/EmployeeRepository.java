@@ -6,4 +6,6 @@ import com.EmployeeService.demo.Models.Employee;
 
 public interface EmployeeRepository extends JpaRepository<Employee, Integer> {
 
+	Employee findEmployeeByemployeeId(int id);
+
 }
