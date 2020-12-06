@@ -11,7 +11,7 @@ spring:
     password: NkweMapoulo@1
   jpa:
     hibernate:
-      ddl-auto: create
+      ddl-auto: update
       
       
 
