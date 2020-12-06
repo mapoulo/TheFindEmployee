@@ -8452,3 +8452,96 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 21:31:14.154
 !MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.JpOsynzC => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 21:32:52.118
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.yTuJVXvH
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 21:32:52.135
+!MESSAGE subscribing to classpath changes: sts4.classpath.yTuJVXvH
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 21:32:52.145
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 21:32:52.155
+!MESSAGE subsribers = [sts4.classpath.yTuJVXvH]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 21:32:52.165
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 21:32:52.175
+!MESSAGE project EmployeeService ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 21:32:52.186
+!MESSAGE project Department ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 21:32:52.195
+!MESSAGE Preparing classpath changed notification EmployeeService
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 21:32:52.205
+!MESSAGE project MyEurekaServer ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 21:32:52.215
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 21:32:52.224
+!MESSAGE project WWWWWW ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 21:32:52.234
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 21:32:52.243
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 21:32:52.253
+!MESSAGE executing callback sts4.classpath.yTuJVXvH EmployeeService false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 21:32:52.262
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.yTuJVXvH => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 21:32:52.461
+!MESSAGE executing callback sts4.classpath.yTuJVXvH SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 21:32:52.477
+!MESSAGE Preparing classpath changed notification WWWWWW
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 21:32:52.487
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 21:32:52.507
+!MESSAGE classpath=116 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 21:32:52.520
+!MESSAGE executing callback sts4.classpath.yTuJVXvH WWWWWW false 116
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 21:32:52.832
+!MESSAGE executing callback sts4.classpath.yTuJVXvH SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 21:32:52.848
+!MESSAGE Preparing classpath changed notification MyEurekaServer
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 21:32:52.864
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 21:32:52.929
+!MESSAGE classpath=136 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 21:32:52.943
+!MESSAGE executing callback sts4.classpath.yTuJVXvH MyEurekaServer false 136
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 21:32:53.345
+!MESSAGE executing callback sts4.classpath.yTuJVXvH SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 21:32:53.361
+!MESSAGE Preparing classpath changed notification Department
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 21:32:53.377
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 21:32:53.407
+!MESSAGE classpath=140 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 21:32:53.424
+!MESSAGE executing callback sts4.classpath.yTuJVXvH Department false 140
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 21:32:53.756
+!MESSAGE executing callback sts4.classpath.yTuJVXvH SUCCESS [done]
