@@ -11327,3 +11327,113 @@ java.lang.Exception: File not found: C:\Users\oupam\Documents\workspace-spring-t
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 23:31:44.749
 !MESSAGE executing callback sts4.classpath.kOJrnLmU SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 23:40:06.370
+!MESSAGE Preparing classpath changed notification API-gateway
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 23:40:06.380
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 23:40:06.421
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 23:40:06.429
+!MESSAGE executing callback sts4.classpath.kOJrnLmU API-gateway false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 23:40:06.534
+!MESSAGE executing callback sts4.classpath.kOJrnLmU SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 23:40:07.604
+!MESSAGE Preparing classpath changed notification API-gateway
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 23:40:07.617
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 23:40:07.640
+!MESSAGE classpath=138 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 23:40:07.652
+!MESSAGE executing callback sts4.classpath.kOJrnLmU API-gateway false 138
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 23:40:09.669
+!MESSAGE executing callback sts4.classpath.kOJrnLmU FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2020-12-06 23:40:09.682
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1957)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:37)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:180)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-12-06 23:40:10.372
+!MESSAGE Could not download sources for org.springframework.cloud:spring-cloud-starter-gateway:3.0.0-M6
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-gateway:jar:sources:3.0.0-M6
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:763)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:731)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:708)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:279)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:254)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:221)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.cloud:spring-cloud-starter-gateway:jar:sources:3.0.0-M6
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-12-06 23:40:10.373
+!MESSAGE Could not resolve artifact org.springframework.cloud:spring-cloud-starter-gateway:jar:sources:3.0.0-M6
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-12-06 23:40:10.373
+!MESSAGE Missing org.springframework.cloud:spring-cloud-starter-gateway:jar:sources:3.0.0-M6
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 23:40:44.423
+!MESSAGE Preparing classpath changed notification API-gateway
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 23:40:44.440
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 23:40:44.464
+!MESSAGE classpath=138 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 23:40:44.477
+!MESSAGE executing callback sts4.classpath.kOJrnLmU API-gateway false 138
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 23:40:44.750
+!MESSAGE executing callback sts4.classpath.kOJrnLmU SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 23:40:49.560
+!MESSAGE Preparing classpath changed notification API-gateway
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 23:40:49.575
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 23:40:49.602
+!MESSAGE classpath=138 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 23:40:49.616
+!MESSAGE executing callback sts4.classpath.kOJrnLmU API-gateway false 138
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 23:40:49.964
+!MESSAGE executing callback sts4.classpath.kOJrnLmU SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 23:42:45.232
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.kOJrnLmU
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 23:42:45.245
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.kOJrnLmU
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 23:42:45.255
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-06 23:42:45.268
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.kOJrnLmU => OK
