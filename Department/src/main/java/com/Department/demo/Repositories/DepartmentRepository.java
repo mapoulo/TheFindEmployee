@@ -6,4 +6,6 @@ import com.Department.demo.Models.Department;
 
 public interface DepartmentRepository extends JpaRepository<Department, Integer>{
 
+	Department findDepartmentBydepartmentId(int id);
+
 }
