@@ -14,7 +14,3 @@ spring:
       ddl-auto: create
       
       
-eureka:
-   client:
-      registerWithEureka: true
-      fetchRegistry: true
