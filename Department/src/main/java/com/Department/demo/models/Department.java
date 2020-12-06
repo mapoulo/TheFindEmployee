@@ -8,17 +8,15 @@ import javax.persistence.Id;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-@Entity
 @Data
 @NoArgsConstructor
+@Entity
 public class Department {
-	
 	
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private int departmentId;
 	
-	
-    private String departmentName;
+	private String departmentName;
 
 }
